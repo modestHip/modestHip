@@ -1,5 +1,6 @@
 ### Hi there 👋
 I'm currently studying CompSci at Seoultech. Looking forward to learn more stuff or whatever. Something along those lines. Sorry for poor introduction. It's all I have for now
+
 ![](https://media.giphy.com/media/3oEduZtPOv5OSecubu/giphy.gif?cid=ecf05e47v9hbk3ejoe20jayn0w7fj7qd056hwtq89blxq8ih&rid=giphy.gif&ct=g)
 
 Over and out
